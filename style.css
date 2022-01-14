@@ -1,0 +1,75 @@
+h1{
+  color:white;
+  font-family: papyrus;
+}
+h6{
+  color:white;
+  font-family: papyrus;
+  font-weight: bold;
+  text-align: center;
+}
+h4{
+  font-family: georgia;
+  font-weight: bold;
+  padding: 0.5em;
+}
+h5,p{
+  color: white;
+  font-family: monaco;
+  padding: 0.2em;
+  text-align: center;
+}
+header {
+  background: Crimson;
+ padding: 0.2em;
+}
+ 
+label{
+color :black;
+font-weight: bold;
+
+}
+footer{
+  background:Crimson;
+  
+}
+main{
+  padding: 2em;
+  background-image: url("foto/fundo.png");
+}
+#form{
+  background: LightCoral;
+  opacity: 0.9;
+ 
+}
+#cadastrar{
+  border:1px solid; 
+  padding: 8px 15px; 
+  margin: 5px;
+  background:red; 
+  color:white;
+  border-radius:10px; 
+  font-size: 15px; 
+  font-family:helvetica, serif;
+}
+#limpar{
+border:1px solid; 
+padding: 8px 15px; 
+margin: 5px;
+background:red; 
+color:white;
+border-radius:10px; 
+font-size: 15px; 
+font-family:helvetica, serif;
+}
+a{
+display: block;
+color: white;
+font: 0.7em sans-serif;
+}
+h3{
+color: white;
+font: 1em sans-serif;
+}
+
+
